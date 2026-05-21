@@ -20,6 +20,7 @@
 ---
 
 ## 🔗 Quick Attribution (Credit)
+## JSON DATA URL - (https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json)
 
 This automated service is based on data collected and maintained by others. Full credit goes to the original source:
 
@@ -34,10 +35,9 @@ This automated service is based on data collected and maintained by others. Full
 ## ✨ Features
 
 - ⚡ **Zero-maintenance** — no server, no cron job, no backend
-- 🔄 **Auto-refresh** every 60 seconds — page always shows latest events
+- 🔄 **Auto-refresh**  page always shows latest events
 - 🎥 **Built-in HLS player** — streams play directly in the browser
 - 📱 **Fully responsive** — works on mobile, tablet, and desktop
-- 🖼️ **Smart thumbnails** — proxied through `wsrv.nl` to bypass hotlink blocking
 - ⚽ 🏏 ⛳ **Multi-sport support** — Football, Cricket, Golf, Tennis & more
 
 
