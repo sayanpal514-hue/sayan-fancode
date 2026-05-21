@@ -2,7 +2,7 @@
 
 # ⚽ 🏏 📡 FanCode Live Events Auto-Sync
 | 🌐 Live Website | [FanCode Live — SAYAN](https://sayan-fancode18.pages.dev/) |
-|JSON DATA URL | -  [@DATA] (https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json)|
+|JSON DATA URL |  [DATA URL]([https://sayan-fancode18.pages.dev/](https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json) |
 ### by **Sayan Pal**
 
 ✨ A high-availability, fully automated data synchronization project ensuring the FanCode live events list is always fresh and reliable.
